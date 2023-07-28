@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Swiss Alps – The Magical Mountains",
+    "description": "The dramatic peaks of Dammastock and the snow-clad majestic summit of Matterhorn have always amazed and left hikers spellbound with its astonishing beauty. Matterhorn is 10th tallest amongst the several mountains of the world with a distinct feature of a well-defined pyramid shape. It is one of the most active fold mountains of the world and is featured on the world famous Toblerone Chocolate as its logo. The slopes of the Alps are famous for the skiing and snowboarding activities.",
+    "location": "Switzerland",
+    "image": "https://images.unsplash.com/photo-1545858074-a4bae2d8017c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2378&q=80",
+    "height": "4,634 m"
+  },
+  {
+    "title": "Mount Logan – The Snowy Paradise",
+    "description": "Mount Logan is the tallest mountain in Canada, second highest summit in North America and has the largest circumference of the base when compared to the several mountain ranges of the world map. It is a part of Kluane National Park and Reserve. Hikers here can have an adventurous experience being surrounded by dense forests, iced rivers, picturesque landscapes, wild animals and several species of birds. Due to the tectonic action in this area, Mount Logan is continuing to grow in height even today.",
+    "location": "Canada",
+    "image": "https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2323d8de-300c-11e7-aef5-2d8dbd8d80b5.jpg?crop=5374%2C3583%2C-0%2C-0",
+    "height": "5,959 m"
+  },
+  {
+    "title": "Mount Fuji – The Volcanic Beauty",
+    "description": "Mount Fuji is nearly 12,400 ft tall and is Japan’s No.1 tourist attraction. The breathtaking views here never fail to impress anybody who comes here. This is one of the most massive volcanic mountains in the world, which is active even now and majestically sits over a junction of three tectonic plates. The months July and August see the most amount of hikers attempting to climb this volcanic mountain and most of them make it to the summit successfully.",
+    "location": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/1200px-080103_hakkai_fuji.jpg",
+    "height": "3,776 m"
+  },
+  {
+    "title": "Mauna Kea – The Gem Of Pacific Ocean",
+    "description": "Mt Everest is known to be the tallest mountain in the world, but if you consider the height of Mauna Kea which is hidden under the Pacific Ocean, then Mauna Kea would be the tallest peak of the world. It is an 8-hour tour to this place with a few stops in between for acclimatization. The top of this volcanic wonder houses the world’s leading astronomical observatories. During the nights the perfectly clear skies offer an amazing stargazing experience.",
+    "location": "United States of America",
+    "image": "https://maptrotting.com/wp-content/uploads/2014/03/Mauna-Kea-Hawaii.jpg",
+    "height": "4,207 m"
+  },
+  {
+    "title": "Jotunheimen Mountains – The Photographer’s Paradise",
+    "description": "This is one of the major mountain ranges of the world. One can witness these beautiful Jotunheimen Mountains when on the Sognefjellet National Tourist Route. The best way to witness the beauty of this place is through a drive along Europe’s highest mountain pass. This area offers splendid views of the scenic beauty which are highly worthy of being photographed. During the drive, one can witness the magnificent view comprising of snow-capped mountain peaks, waterfalls with crystal clear water and lush greenery.",
+    "location": "Norway",
+    "image": "https://www.atlasandboots.com/wp-content/uploads/2017/01/Climbing-Galdhøpiggen-in-Jotunheimen-National-Park-Norway-10.jpg",
+    "height": "Galdhøpiggen (2469 m)"
+  },
+  {
+    "title": "Grand Teton – America’s Adventure Hub",
+    "description": "Grand Teton is a famous national park in the United States of America with more than 60 species of mammals. The breathtaking scenery offered here leaves every traveller awe-struck and in love with the grand mountain peaks making it one of the most famous mountains in the world. There are many fun-filled exciting activities offered in this area like camping, hiking, trekking, water sports etc. The historical cowboy culture of this area must be experienced by one and all.",
+    "location": "United States of America",
+    "image": "https://i.natgeofe.com/n/a147ff7a-a320-4654-b445-481478dde6ee/NationalGeographic_2703411.jpg?w=1536.0000610351562&h=1023.6000406742096",
+    "height": "4,199 m"
+  },
+  {
+    "title": "Bogda Peak – An Epitome Of Magnificence",
+    "description": "Also known as the Bogda Mountain, it is an 18000 ft tall magnificent beauty. This mountain is very difficult to climb as its slopes are very steep which is a major obstacle, but in spite of these limitations, many mountain climbers have successfully climbed this mountain range on numerous occasions. This mountain peak is much closer to the civilization and is more challenging to climb, therefore it gets more attention from the travellers when compared to the other mountain peaks of the region.",
+    "location": "China",
+    "image": "https://peakvisor.com/photo/3/3e/Tianchi_(Heaven_Lake).jpg",
+    "height": "5,445 m"
+  },
+  {
+    "title": "Aoraki/Mt. Cook – The Spellbinding Wonder",
+    "description": "It is a part of the popular Aoraki/Mt. Cook National Park and stands magnificently adorned with snow-capped peaks. Many mountain climbing enthusiasts come here from all over the world with an intention of climbing the three snow-covered summits of this range. Even hikers come from every nook and corner to experience the splendid view offered on the hiking trails and to witness the longest glacier in the country which is Tasman Glacier. It is undoubtedly one of the world’s greatest mountains.",
+    "location": "New Zealand",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/24/e8/2b/mt-cook.jpg?w=1100&h=-1&s=1",
+    "height": "3,724 m"
+  },
+  {
+    "title": "Cerro Torre – The Sunkissed Beauty",
+    "description": "This is the most controversial mountain range amongst all the mountains of the world as there have been many disputes between Argentina and Chile as to who owns it and there have been complications in deciding who was the first person to climb Cerro Torre. It is counted among the most difficult mountains to climb as it has a very steep surface. It is a rocky steep mountain standing 10,000 ft tall with a bulb like snow cap at the top.",
+    "location": "Argentina/Chile",
+    "image": "https://i.natgeofe.com/n/4a4a5beb-fd87-4c5d-9d76-4f9848ee15a4/14089898.jpg?w=804.0000319480896&h=536.400021314621",
+    "height": "3,128 m"
+  },
+  {
+    "title": "Mount Kilimanjaro – The Home Of Nature",
+    "description": "It is one of the famed Seven Summits of Africa. It is considered to be one of the highest mountain ranges in the world and also one of the most important mountains of the world. It is topped with several glaciers and a diminishing ice field. The hiking tour to this place is quite expensive and can be afforded only by few. Western white and black colobuses, blue monkeys, elephants, cape buffaloes, and leopards can be found in the forests of Kilimanjaro National Park.",
+    "location": "Tanzania",
+    "image": "https://cdn.britannica.com/33/153433-050-F76BDF75/Sunrise-Mount-Kilimanjaro-Tanzania.jpg",
+    "height": "5,895 m"
+  }
+]
